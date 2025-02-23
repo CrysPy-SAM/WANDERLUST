@@ -14,48 +14,6 @@ WANDERLUST is a modern travel booking web application designed to help users sea
 - 📸 **Media-Rich Destination Pages** - High-quality images & videos
 - 🌐 **Responsive & Fast UI** - Built with a sleek, modern design
 
----
-
-## 🛠️ Tech Stack
-
-🚀 **Frontend:** React.js, Tailwind CSS  
-🔧 **Backend:** Node.js, Express.js  
-📦 **Database:** MongoDB  
-🔑 **Authentication:** JWT (JSON Web Token)  
-🌎 **APIs & Integrations:** Google Maps API, OpenWeather API
-
----
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-```sh
- git clone https://github.com/CrysPy-SAM/WANDERLUST.git
- cd WANDERLUST
-```
-
-### 2️⃣ Install Dependencies
-```sh
-npm install
-```
-
-### 3️⃣ Configure Environment Variables
-Create a `.env` file in the root directory and add:
-```env
-PORT=5000
-MONGODB_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-API_KEY=your_api_key
-```
-
-### 4️⃣ Start the Development Server
-```sh
-npm run dev
-```
-Now open your browser and navigate to `http://localhost:5000`.
-
----
-
 ## 🤝 Contributing
 
 Want to improve Wanderlust? Follow these steps:
