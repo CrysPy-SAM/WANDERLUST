@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 WANDERLUST - Explore the World Effortlessly
 
 WANDERLUST is a modern travel booking web application designed to help users seamlessly discover, book, and review travel destinations. Whether you're an adventurer or a leisure traveler, Wanderlust provides a smooth and immersive experience.
@@ -42,3 +43,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 🚀 **Start Exploring with Wanderlust Today!** 🌍
+=======
+>>>>>>> f665c50 (Initial commit or updated project)
